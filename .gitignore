@@ -1,0 +1,9 @@
+.DS_Store
+.build/
+fixtures/local/
+.superpowers/
+/shotsort
+.idea/
+.vscode/
+.swiftpm/
+*.xcuserdatad

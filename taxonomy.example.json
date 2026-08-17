@@ -1,0 +1,76 @@
+{
+  "version": 1,
+  "filterVersion": 3,
+  "categories": [
+    {
+      "name": "Social & Messaging",
+      "desc": "Feeds, posts, replies, DMs — Nostr, X, Facebook, Instagram, WhatsApp. Not news articles.",
+      "examples": []
+    },
+    {
+      "name": "News & Current Affairs",
+      "desc": "News sites and journalism: headlines, articles, reporting. Not social posts about the news.",
+      "examples": []
+    },
+    {
+      "name": "Money & Accounts",
+      "desc": "Banking, invoices, accounting, payments, statements, bills. Xero, bank apps.",
+      "examples": []
+    },
+    {
+      "name": "Crypto & Markets",
+      "desc": "Bitcoin, exchanges, price charts, on-chain data, trading. Not conventional banking.",
+      "examples": []
+    },
+    {
+      "name": "Travel & Transit",
+      "desc": "Flights, hotels, bookings, tickets, timetables, maps, directions. The trip, not photos of it.",
+      "examples": []
+    },
+    {
+      "name": "Reference & Lookups",
+      "desc": "Weather, opening hours, one-off facts looked up and finished with. Short-lived information.",
+      "examples": []
+    },
+    {
+      "name": "Shopping",
+      "desc": "Product pages, listings, prices, offers, carts. Buying things that are not travel.",
+      "examples": []
+    },
+    {
+      "name": "Photos & People",
+      "desc": "Pictures of people, video calls, selfies, family and friends. Faces are the subject.",
+      "examples": []
+    },
+    {
+      "name": "Places & Nature",
+      "desc": "Landscapes, outdoor scenes, buildings, plants, animals, skies. No person as the subject.",
+      "examples": []
+    },
+    {
+      "name": "Health & Fitness",
+      "desc": "Medical appointments, symptoms, procedures, prescriptions, exercise and tracking.",
+      "examples": []
+    },
+    {
+      "name": "Tech & Apps",
+      "desc": "Device settings, app interfaces, software, error messages, configuration screens.",
+      "examples": []
+    },
+    {
+      "name": "Entertainment",
+      "desc": "Video, music, games, shows, streaming. Something being watched, played or listened to.",
+      "examples": []
+    },
+    {
+      "name": "Work & Projects",
+      "desc": "Work tasks, documents, code, presentations, project planning. Paid or professional.",
+      "examples": []
+    },
+    {
+      "name": "Unsorted",
+      "desc": "No usable signal, or fits no other category.",
+      "examples": []
+    }
+  ]
+}
